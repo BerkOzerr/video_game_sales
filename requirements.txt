@@ -1,0 +1,6 @@
+﻿# Dogrudan kullanilan paketler (alt sinirlar).
+# Kurulum: pip install -r requirements.txt
+# Not: Bu dosya UTF-8 ve yorumlari ASCII. "pip freeze > requirements.txt"
+
+pandas>=2.2
+matplotlib>=3.8
